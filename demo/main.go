@@ -12,4 +12,5 @@ func main(){
 	fmt.Println(mytest.Test(2, 1))
 	fmt.Println(modulea.TestA(2, 1))
 	fmt.Println(ve.Version())
+	fmt.Println(ve.Name())
 }
